@@ -79,6 +79,5 @@ int main()
   
     cout << "\nPostorder traversal of binary tree is \n"; 
     printPostorder(root); 
-  
     return 0; 
 } 
