@@ -1,3 +1,5 @@
+//Rearrange a linked list such that all even and odd positioned nodes are together.
+
 #include<bits/stdc++.h>  
 using namespace std;  
   
