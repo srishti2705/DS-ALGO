@@ -1,1 +1,1 @@
-This repo contains competitive dynamic programs on arrays, stacks, linked list, sorting searching and binary trees.
+Contains several competitive dynamic programs on arrays, stacks, linked list, sorting, searching and binary trees.
